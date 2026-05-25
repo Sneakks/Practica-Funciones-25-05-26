@@ -1,0 +1,14 @@
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\bin\Debug\net10.0\Ejericicio8.exe
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\bin\Debug\net10.0\Ejericicio8.deps.json
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\bin\Debug\net10.0\Ejericicio8.runtimeconfig.json
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\bin\Debug\net10.0\Ejericicio8.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\bin\Debug\net10.0\Ejericicio8.pdb
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.AssemblyInfoInputs.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.AssemblyInfo.cs
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.csproj.CoreCompileInputs.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\refint\Ejericicio8.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.pdb
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\Ejericicio8.genruntimeconfig.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejericicio8\obj\Debug\net10.0\ref\Ejericicio8.dll

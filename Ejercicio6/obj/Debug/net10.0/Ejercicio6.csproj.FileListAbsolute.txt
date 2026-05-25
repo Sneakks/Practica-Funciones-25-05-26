@@ -1,0 +1,14 @@
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\bin\Debug\net10.0\Ejercicio6.exe
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\bin\Debug\net10.0\Ejercicio6.deps.json
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\bin\Debug\net10.0\Ejercicio6.runtimeconfig.json
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\bin\Debug\net10.0\Ejercicio6.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\bin\Debug\net10.0\Ejercicio6.pdb
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.AssemblyInfo.cs
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\refint\Ejercicio6.dll
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.pdb
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\Ejercicio6.genruntimeconfig.cache
+C:\Funciones ejercicios\Practica-Funciones-25-05-26\Ejercicio6\obj\Debug\net10.0\ref\Ejercicio6.dll
